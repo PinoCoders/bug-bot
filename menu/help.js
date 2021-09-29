@@ -157,20 +157,7 @@ const help = (prefix,shp,monoscape) => {
 ║🔖${prefix}𝕒𝕕𝕕𝕧𝕚𝕕
 ║🔖${prefix}𝕝𝕚𝕤𝕥𝕧𝕚𝕕
 ║🔖${prefix}𝕘𝕖𝕥𝕧𝕚𝕕
-╚══✮✮  𝘏𝘠𝘗𝘌𝘙 咽翁 𝔹𝕆𝕋 ✮✮ 
-
-╔══> DEVELOPER 👨‍💻
-║Channel: https://youtube.com/c/HYPERMOD
-║github: https://github.com/HYPER-MOD
-║Whatsapp: wa.me/94767043432
-╚══> HYPER DEVELOPER ✉️
-
-╔══> 💕💕  Thanks To  💕💕
-║ 💞 SUPUN
-║ 💞 SL TERROR FAMILY
-║ 💞 APP HORU OFC
-║ 💞 SUBSCRIBE CHANNEL HYPER MOD
-╚══>💗💗  𝘏𝘠𝘗𝘌𝘙 咽翁 𝔹𝕆𝕋`
+╚══✮✮`
 }
 
 exports.help = help
